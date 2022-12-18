@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring JAVA Backend Developer. Currently Learning SpringBoot. </h3>
 <p  align="center">Passionate and curious about technology . I love technology that are user friendly and problem solving.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kieransahoo&label=Profile%20views&color=0e75b6&style=flat" alt="kieransahoo" /> </p>
-<p align="center" > <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/> </p>
 
 
 
