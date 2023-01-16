@@ -12,7 +12,7 @@
 
 - 🔭 I am currently working on  [Portfolio](https://kieransahoo.github.io)
 
-- 👨‍💻 All of my projects are available at [kieransahoo.github.io](kieransahoo.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kieransahoo.github.io)
 
 - 📫 How to reach me **sahookieran@outlook.com**
 
