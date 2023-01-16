@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I am currently working on  [Portfolio](https://kieransahoo.github.io/)
+- 🔭 I am currently working on  [Portfolio](https://kieransahoo.github.io)
 
 - 👨‍💻 All of my projects are available at [kieransahoo.github.io](kieransahoo.github.io)
 
