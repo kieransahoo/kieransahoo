@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sahookieran@outlook.com**
 
-- ⚡ Fun fact **I like play to play video games.**
+- ⚡ Fun fact **I like to play video games.**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kieransahoo&theme=chartreuse-dark&no-frame=true&margin-w=4)
