@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://kieransahoo.github.io)
 
-- 📫 How to reach me **sahookieran@outlook.com**
+- 📫 How to reach me **kkieran50@gmail.com**
 
 - ⚡ Fun fact **I like to play video games.**
 
