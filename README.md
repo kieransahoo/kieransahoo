@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Everyone. My Name is Kiran Kumar Sahoo</h1>
-<h3 align="center">Aspiring JAVA Backend Developer. Currently Learning SpringBoot. </h3>
+<h3 align="center">Aspiring JAVA Backend Developer. Currently Learning Spring Security and AWS. </h3>
 <p  align="center">I am a Aspiring  Java backend developer with experience in building projects using Spring Boot and JDBC during my journey in Masai School. I have a strong understanding of core Java concepts and have practical experience working with databases and ORM frameworks. I am always eager to learn and am always looking to improve my skills. I am confident in my ability to develop  a quality Java-based applications and am always eager to take on new challenges and projects.Also Passionate and curious about technology that are user friendly and problem solving.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kieransahoo&label=Profile%20views&color=0e75b6&style=flat" alt="kieransahoo" /> </p>
 
