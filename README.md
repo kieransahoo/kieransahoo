@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, Everyone. My Name is Kiran Kumar Sahoo</h1>
 <h3 align="center">Aspiring JAVA Backend Developer. Currently Learning Spring Security and AWS. </h3>
-<p  align="center">As an aspiring Java backend developer, I have experience building Frontend and Backend projects using Tech Stack Like <b> HTML, CSS ,JavaScript Java, Maven, Hibernate,Spring Boot and JDBC</b> . Along with a strong understanding of <b>core Java concepts/<b>, I also have practical experience working with <b>Databases ,ORM frameworks and Spring Framework</b>. I am always eager to learn and improve my skills, and I am confident in my ability to develop quality Java-based applications.
-
-In addition to my technical skills, I am passionate and curious about technology that is user-friendly and problem-solving. I am eager to explore new technologies and tech stacks to build applications that meet user needs and exceed expectations.</p>
+<p  align="center">As an aspiring Java backend developer, I have experience building Frontend and Backend projects using Tech Stack Like <b> HTML, CSS ,JavaScript Java, Maven, Hibernate,Spring Boot and JDBC</b> . Along with a strong understanding of <b>core Java concepts/<b>, I also have practical experience working with <b>Databases ,ORM frameworks and Spring Framework</b>. I am always eager to learn and improve my skills, and I am confident in my ability to develop quality Java-based applications.</p>
+<p align="center">In addition to my technical skills, I am passionate and curious about technology that is user-friendly and problem-solving. I am eager to explore new technologies and tech stacks to build applications that meet user needs and exceed expectations.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kieransahoo&label=Profile%20views&color=0e75b6&style=flat" alt="kieransahoo" /> </p>
 
 
